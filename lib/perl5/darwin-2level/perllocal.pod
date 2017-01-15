@@ -20,3 +20,69 @@ C<EXE_FILES: bin/cpanm>
 
 =back
 
+=head2 Sun Jan 15 11:45:18 2017: C<Module> L<XSLoader|XSLoader>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/jzhangkun/Github/jzhangkun/lib_perl5.20.3/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.24>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Jan 15 11:45:25 2017: C<Module> L<Exporter::Tiny|Exporter::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/jzhangkun/Github/jzhangkun/lib_perl5.20.3/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.042>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Jan 15 11:45:30 2017: C<Module> L<List::MoreUtils|List::MoreUtils>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/jzhangkun/Github/jzhangkun/lib_perl5.20.3/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.416>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
